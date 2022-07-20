@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.bids, .asks {
+  flex: 1;
+  padding: 100px;
+}
